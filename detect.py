@@ -76,7 +76,7 @@ if __name__ == '__main__':
     # params init
     net_size = 416
     anchors = torch.tensor(
-        [10,14,  23,27,  37,58,  81,82,  135,169,  344,319],
+        [23,27,  37,58,  81,82,  81,82,  135,169,  344,319],
         dtype=torch.float32
     ).view(-1, 3, 2)
 
