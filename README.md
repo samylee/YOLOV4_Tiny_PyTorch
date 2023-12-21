@@ -1,5 +1,5 @@
 # YOLOV4_Tiny_PyTorch
-yolov4-tiny to pytorch
+yolov4-tiny to pytorch 
 
 ## Demo
 <img src="assets/result1.jpg" width="400" height="260"/>   <img src="assets/result2.jpg" width="400" height="260"/>  
